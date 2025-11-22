@@ -3,12 +3,13 @@
 ### tasks and points:
 
 - fork that project | `+1 point`
-- run project | `+1 point`
+- run project | `+1 point` source ~/.nvm/nvm.sh && nvm use 16
 - make the loader not spin constantly | `+2 point`
+
 - create a new module | `+2 point`
 - make this module in lazy loading | `+2 point`
 - create page pixel perfect by | `+5 point`
-![Pixel Perfect](Group.png)
+  ![Pixel Perfect](Group.png)
 - secure route for the lazy-loaded projects.module by _has-access-token.guard_ | `+3 points`
 - create an interface to the current object, and display this code in the bottom of template | `+3 points`
 
