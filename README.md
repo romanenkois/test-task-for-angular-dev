@@ -3,7 +3,7 @@
 ### tasks and points:
 
 - fork that project | `+1 point`
-- run project | `+1 point` source ~/.nvm/nvm.sh && nvm use 16
+- run project | `+1 point` source ~/.nvm/nvm.sh && nvm use 16 && npm start
 - make the loader not spin constantly | `+2 point`
 
 - create a new module | `+2 point`
