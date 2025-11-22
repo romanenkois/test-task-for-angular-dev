@@ -54,6 +54,11 @@
     </div>
   </div>
 
+  <div class="landing-page__code">
+    <h3>Weather Report Data</h3>
+    <pre><code>{{ getWeatherReportJson() }}</code></pre>
+  </div>
+
   <div class="landing-page__footer">
     <div class="landing-page__footer-links">
       <a *ngFor="let item of this.footerLinks" href="#">{{ item.text }}</a>

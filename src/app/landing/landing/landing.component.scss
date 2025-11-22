@@ -203,6 +203,19 @@ h2 {
     }
   }
 
+  &__code {
+    width: 100%;
+    padding: $padding-y $padding-x;
+    box-sizing: border-box;
+
+    pre {
+      margin: 0;
+      padding: $gap;
+      background-color: $gray-color;
+      overflow: auto;
+    }
+  }
+
   &__footer {
     width: 100%;
     padding: $padding-y $padding-x;
